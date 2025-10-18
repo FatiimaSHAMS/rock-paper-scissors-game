@@ -1,0 +1,1 @@
+A Rock Paper Scissors Lizard Spock game built with vanilla JavaScript featuring interactive gameplay, score tracking, and celebratory confetti animations when players win. Includes responsive design and modern ES6 modules.
